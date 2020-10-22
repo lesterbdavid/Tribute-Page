@@ -1,9 +1,8 @@
-## This is a Miriam Defensor Santiago Tribute Page
+## Name
+Miriam Defensor Santiago Tribute Page
 
-###### It makes up the first part of my portfolio
-
-## Link
+## Description
+This makes up the first part of my portfolio.
 See this project live at the following URL:
 https://lesterbdavid.github.io/miriam-defensor-santiago-tribute-page/
-
-## I hope you enjoy!
+Enjoy!
